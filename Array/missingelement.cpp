@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// Missing Element Brute Force
 int main() {
           vector<int>arr = { 1,2,3,5};
           for(int j = 1; j <= 5; j++){ // <-- ye element hai 
